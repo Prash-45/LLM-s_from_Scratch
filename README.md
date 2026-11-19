@@ -18,6 +18,8 @@ The primary objective was to establish a practical understanding of how language
 
 Implemented the fundamental components of a decoder-only Transformer architecture.
 
+<img width="400" height="600" alt="WhatsApp Image 2026-11-19 at 00 31 16" src="https://github.com/user-attachments/assets/7f412476-1f33-46ef-ba49-7b17c7d56c3d" />
+
 **Core components:**
 
 - BPE-based tokenization and vocabulary encoding.
@@ -34,8 +36,6 @@ Implemented the fundamental components of a decoder-only Transformer architectur
 <img width="968" height="584" alt="image" src="https://github.com/user-attachments/assets/f3abee72-78aa-44a9-b550-f91bee8bc458" />
 
 **Generation mechanism:** Autoregressive decoding with temperature scaling and Top-k sampling.
-
-<img width="700" height="820" alt="WhatsApp Image 2026-11-19 at 00 31 16" src="https://github.com/user-attachments/assets/7f412476-1f33-46ef-ba49-7b17c7d56c3d" />
 
 ## 02. Model Parameterization & Pretrained Weight Integration
 
