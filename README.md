@@ -35,7 +35,7 @@ Implemented the fundamental components of a decoder-only Transformer architectur
 
 **Generation mechanism:** Autoregressive decoding with temperature scaling and Top-k sampling.
 
-<img width="827" height="1280" alt="WhatsApp Image 2026-11-19 at 00 31 16" src="https://github.com/user-attachments/assets/7f412476-1f33-46ef-ba49-7b17c7d56c3d" />
+<img width="700" height="820" alt="WhatsApp Image 2026-11-19 at 00 31 16" src="https://github.com/user-attachments/assets/7f412476-1f33-46ef-ba49-7b17c7d56c3d" />
 
 ## 02. Model Parameterization & Pretrained Weight Integration
 
