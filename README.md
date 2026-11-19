@@ -1,5 +1,7 @@
 # LLM Engineering — From Transformer Internals to Instruction Fine-Tuning
 
+Quick Note --> I have shared my day-by-day progress , resources used during this journey , & some quite usefull insights during this journey make sure to follow up for more --> https://x.com/shoupxx
+
 **An end-to-end engineering exploration of GPT-style Large Language Models, covering Transformer implementation, autoregressive generation, pretrained weight integration, downstream adaptation, and supervised instruction fine-tuning.**
 
 ## Repo Overview
